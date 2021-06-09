@@ -1,0 +1,75 @@
+version,source,date,tool,number,name,tstamps,title,company,rev,date2,source3,number4,value,ref,value5,footprint,datasheet,lib,part,description,names,tstamps6,tstamp,lib7,part8,description9,docs,fp,field,name10,num,name11,type,alias,logical,uri,code,name12,ref13,pin
+D,C:\Users\User01\Documents\DC-DC\LM2596_12V\LM2596_12V.sch,6/2/2021 4:28:13 PM,Eeschema (5.1.7)-1,1,/,/,,,,,LM2596_12V.sch,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,C:\Users\User01\Documents\DC-DC\LM2596_12V\LM2596_12V.sch,6/2/2021 4:28:13 PM,Eeschema (5.1.7)-1,1,/,/,,,,,LM2596_12V.sch,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,C:\Users\User01\Documents\DC-DC\LM2596_12V\LM2596_12V.sch,6/2/2021 4:28:13 PM,Eeschema (5.1.7)-1,1,/,/,,,,,LM2596_12V.sch,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,C:\Users\User01\Documents\DC-DC\LM2596_12V\LM2596_12V.sch,6/2/2021 4:28:13 PM,Eeschema (5.1.7)-1,1,/,/,,,,,LM2596_12V.sch,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,,,,,,,,,,,,,,U1,LM2596S-12,Package_TO_SOT_SMD:TO-263-5_TabPin3,http://www.ti.com/lit/ds/symlink/lm2596.pdf,Regulator_Switching,LM2596S-12,"12V 3A Step-Down Voltage Regulator, TO-263",/,/,60B74A7C,,,,,,,,,,,,,,,,,
+D,,,,,,,,,,,,,,D1,1N5818,Diode_SMD:D_1812_4532Metric_Castellated,http://www.vishay.com/docs/88525/1n5817.pdf,Diode,1N5818,"30V 1A Schottky Barrier Rectifier Diode, DO-41",/,/,60B752A8,,,,,,,,,,,,,,,,,
+D,,,,,,,,,,,,,,L1,68uH,Inductor_SMD:L_12x12mm_H4.5mm,~,Device,L,Inductor,/,/,60B76EB1,,,,,,,,,,,,,,,,,
+D,,,,,,,,,,,,,,C2,220uF/35V,Capacitor_SMD:CP_Elec_4x4.5,~,Device,CP_Small,"Polarized capacitor, small symbol",/,/,60B7CA25,,,,,,,,,,,,,,,,,
+D,,,,,,,,,,,,,,C1,470uF/50V,Capacitor_SMD:CP_Elec_4x4.5,~,Device,CP_Small,"Polarized capacitor, small symbol",/,/,60B7CE0A,,,,,,,,,,,,,,,,,
+D,,,,,,,,,,,,,,J1,Conn_01x03_Male,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~,Connector,Conn_01x03_Male,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",/,/,60B80849,,,,,,,,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Connector,Conn_01x03_Male,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",~,Connector*:*_1x??_*,,,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Connector,Conn_01x03_Male,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",~,,J,Reference,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Connector,Conn_01x03_Male,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",~,,Conn_01x03_Male,Value,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Connector,Conn_01x03_Male,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",~,,,,1,Pin_1,passive,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Connector,Conn_01x03_Male,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",~,,,,2,Pin_2,passive,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Connector,Conn_01x03_Male,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",~,,,,3,Pin_3,passive,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Device,CP_Small,"Polarized capacitor, small symbol",~,CP_*,,,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Device,CP_Small,"Polarized capacitor, small symbol",~,,C,Reference,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Device,CP_Small,"Polarized capacitor, small symbol",~,,CP_Small,Value,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Device,CP_Small,"Polarized capacitor, small symbol",~,,,,1,~,passive,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Device,CP_Small,"Polarized capacitor, small symbol",~,,,,2,~,passive,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Device,L,Inductor,~,Choke_*,,,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Device,L,Inductor,~,*Coil*,,,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Device,L,Inductor,~,Inductor_*,,,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Device,L,Inductor,~,L_*,,,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Device,L,Inductor,~,,L,Reference,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Device,L,Inductor,~,,L,Value,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Device,L,Inductor,~,,,,1,1,passive,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Device,L,Inductor,~,,,,2,2,passive,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Diode,SB120,"20V 1A Schottky Barrier Rectifier Diode, DO-41",http://www.diodes.com/_files/datasheets/ds23022.pdf,D*DO?41*,,,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Diode,SB120,"20V 1A Schottky Barrier Rectifier Diode, DO-41",http://www.diodes.com/_files/datasheets/ds23022.pdf,,D,Reference,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Diode,SB120,"20V 1A Schottky Barrier Rectifier Diode, DO-41",http://www.diodes.com/_files/datasheets/ds23022.pdf,,SB120,Value,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Diode,SB120,"20V 1A Schottky Barrier Rectifier Diode, DO-41",http://www.diodes.com/_files/datasheets/ds23022.pdf,,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,Footprint,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Diode,SB120,"20V 1A Schottky Barrier Rectifier Diode, DO-41",http://www.diodes.com/_files/datasheets/ds23022.pdf,,,,1,K,passive,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Diode,SB120,"20V 1A Schottky Barrier Rectifier Diode, DO-41",http://www.diodes.com/_files/datasheets/ds23022.pdf,,,,2,A,passive,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Diode,SB120,"20V 1A Schottky Barrier Rectifier Diode, DO-41",http://www.diodes.com/_files/datasheets/ds23022.pdf,,,,,,,SB130,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Diode,SB120,"20V 1A Schottky Barrier Rectifier Diode, DO-41",http://www.diodes.com/_files/datasheets/ds23022.pdf,,,,,,,SB140,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Diode,SB120,"20V 1A Schottky Barrier Rectifier Diode, DO-41",http://www.diodes.com/_files/datasheets/ds23022.pdf,,,,,,,SB150,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Diode,SB120,"20V 1A Schottky Barrier Rectifier Diode, DO-41",http://www.diodes.com/_files/datasheets/ds23022.pdf,,,,,,,SB160,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Diode,SB120,"20V 1A Schottky Barrier Rectifier Diode, DO-41",http://www.diodes.com/_files/datasheets/ds23022.pdf,,,,,,,1N5817,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Diode,SB120,"20V 1A Schottky Barrier Rectifier Diode, DO-41",http://www.diodes.com/_files/datasheets/ds23022.pdf,,,,,,,1N5818,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Diode,SB120,"20V 1A Schottky Barrier Rectifier Diode, DO-41",http://www.diodes.com/_files/datasheets/ds23022.pdf,,,,,,,1N5819,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Regulator_Switching,LM2596S-12,"12V 3A Step-Down Voltage Regulator, TO-263",http://www.ti.com/lit/ds/symlink/lm2596.pdf,TO?263*,,,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Regulator_Switching,LM2596S-12,"12V 3A Step-Down Voltage Regulator, TO-263",http://www.ti.com/lit/ds/symlink/lm2596.pdf,,U,Reference,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Regulator_Switching,LM2596S-12,"12V 3A Step-Down Voltage Regulator, TO-263",http://www.ti.com/lit/ds/symlink/lm2596.pdf,,LM2596S-12,Value,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Regulator_Switching,LM2596S-12,"12V 3A Step-Down Voltage Regulator, TO-263",http://www.ti.com/lit/ds/symlink/lm2596.pdf,,Package_TO_SOT_SMD:TO-263-5_TabPin3,Footprint,,,,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Regulator_Switching,LM2596S-12,"12V 3A Step-Down Voltage Regulator, TO-263",http://www.ti.com/lit/ds/symlink/lm2596.pdf,,,,1,VIN,power_in,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Regulator_Switching,LM2596S-12,"12V 3A Step-Down Voltage Regulator, TO-263",http://www.ti.com/lit/ds/symlink/lm2596.pdf,,,,2,OUT,output,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Regulator_Switching,LM2596S-12,"12V 3A Step-Down Voltage Regulator, TO-263",http://www.ti.com/lit/ds/symlink/lm2596.pdf,,,,3,GND,power_in,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Regulator_Switching,LM2596S-12,"12V 3A Step-Down Voltage Regulator, TO-263",http://www.ti.com/lit/ds/symlink/lm2596.pdf,,,,4,FB,input,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Regulator_Switching,LM2596S-12,"12V 3A Step-Down Voltage Regulator, TO-263",http://www.ti.com/lit/ds/symlink/lm2596.pdf,,,,5,~ON~/OFF,input,,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Regulator_Switching,LM2596S-12,"12V 3A Step-Down Voltage Regulator, TO-263",http://www.ti.com/lit/ds/symlink/lm2596.pdf,,,,,,,LM2596S-5,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Regulator_Switching,LM2596S-12,"12V 3A Step-Down Voltage Regulator, TO-263",http://www.ti.com/lit/ds/symlink/lm2596.pdf,,,,,,,LM2596S-3.3,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,Regulator_Switching,LM2596S-12,"12V 3A Step-Down Voltage Regulator, TO-263",http://www.ti.com/lit/ds/symlink/lm2596.pdf,,,,,,,LM2596S-ADJ,,,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Connector,C:\Program Files\KiCad\share\kicad\library/Connector.lib,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Device,C:\Program Files\KiCad\share\kicad\library/Device.lib,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Diode,C:\Program Files\KiCad\share\kicad\library/Diode.lib,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Regulator_Switching,C:\Program Files\KiCad\share\kicad\library/Regulator_Switching.lib,,,,
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Net-(D1-Pad1),D1,1
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Net-(D1-Pad1),U1,2
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Net-(D1-Pad1),L1,1
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Net-(C2-Pad1),U1,4
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Net-(C2-Pad1),J1,3
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Net-(C2-Pad1),L1,2
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Net-(C2-Pad1),C2,1
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,GND,D1,2
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,GND,C2,2
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,GND,J1,2
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,GND,U1,5
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,GND,C1,2
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,GND,U1,3
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,Net-(C1-Pad1),U1,1
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,Net-(C1-Pad1),C1,1
+D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,Net-(C1-Pad1),J1,1

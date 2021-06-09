@@ -1,0 +1,27 @@
+"Source:","C:\Users\User01\Documents\DC-DC\LM2596_12V\LM2596_12V.sch"
+"Date:","6/4/2021 12:58:40 PM"
+"Tool:","Eeschema (5.1.7)-1"
+"Generator:","C:\Program Files\KiCad\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","6"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","C1","470uF/50V","Device:CP_Small","Capacitor_SMD:CP_Elec_4x4.5","~"
+"","","C2","220uF/35V","Device:CP_Small","Capacitor_SMD:CP_Elec_4x4.5","~"
+"","","D1","1N5818","Diode:1N5818","Diode_SMD:D_1812_4532Metric_Castellated","http://www.vishay.com/docs/88525/1n5817.pdf"
+"","","J1","Conn_01x03_Male","Connector:Conn_01x03_Male","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~"
+"","","L1","68uH","Device:L","Inductor_SMD:L_12x12mm_H4.5mm","~"
+"","","U1","LM2596S-12","Regulator_Switching:LM2596S-12","Package_TO_SOT_SMD:TO-263-5_TabPin3","http://www.ti.com/lit/ds/symlink/lm2596.pdf"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","1","C1","470uF/50V","Device:CP_Small","Capacitor_SMD:CP_Elec_4x4.5","~"
+"2","1","C2","220uF/35V","Device:CP_Small","Capacitor_SMD:CP_Elec_4x4.5","~"
+"3","1","D1","1N5818","Diode:1N5818","Diode_SMD:D_1812_4532Metric_Castellated","http://www.vishay.com/docs/88525/1n5817.pdf"
+"4","1","J1","Conn_01x03_Male","Connector:Conn_01x03_Male","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~"
+"5","1","L1","68uH","Device:L","Inductor_SMD:L_12x12mm_H4.5mm","~"
+"6","1","U1","LM2596S-12","Regulator_Switching:LM2596S-12","Package_TO_SOT_SMD:TO-263-5_TabPin3","http://www.ti.com/lit/ds/symlink/lm2596.pdf"
